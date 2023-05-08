@@ -2,6 +2,7 @@ package Homework1;
 
 public class SinhVien {
     //Khai bao bien instance
+    //Sưa để học github
     String Name = "Le Hue Phuong";
     //Khai bao bien static
     public static String School = "Hoc vien Buu Chinh Vien Thong";
